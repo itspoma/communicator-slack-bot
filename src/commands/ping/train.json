@@ -1,0 +1,7 @@
+[
+  {"input": "ping", "output": "ping"},
+  {"input": "hello", "output": "ping"},
+  {"input": "hey", "output": "ping"},
+  {"input": "pong", "output": "ping"},
+  {"input": "test", "output": "ping"}
+]

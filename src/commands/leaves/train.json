@@ -1,0 +1,5 @@
+[
+  {"input": "my vacation", "output": "leaves"},
+  {"input": "vacations left", "output": "leaves"},
+  {"input": "my leaves", "output": "leaves"}
+]

@@ -1,0 +1,9 @@
+[
+  {"input": "can you please create poll", "output": "poll"},
+  {"input": "create poll", "output": "poll"},
+  {"input": "new poll", "output": "poll"},
+  {"input": "voting", "output": "poll"},
+  {"input": "create vote", "output": "poll"},
+  {"input": "new vote", "output": "poll"},
+  {"input": "new poll", "output": "poll"}
+]

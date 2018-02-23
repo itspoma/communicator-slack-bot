@@ -1,0 +1,19 @@
+{
+  "name": "communicator-slack-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itspoma/communicator-slack-bot",
+  "author": "itspoma <itspoma@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.16.0",
+    "dotenv": "^5.0.0",
+    "find": "^0.2.9",
+    "joi": "^13.1.2",
+    "limdu": "^0.9.4",
+    "redis-mock": "^0.21.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
